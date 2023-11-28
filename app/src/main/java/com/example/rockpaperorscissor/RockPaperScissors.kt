@@ -15,6 +15,7 @@ fun main() {
     else if (randomNumber == 3) {
         computerChoice = "Scissors"
     }
+    //azad farooqg
     println(computerChoice)
     val winner = when{
         playerChoice==computerChoice -> "Tie"
